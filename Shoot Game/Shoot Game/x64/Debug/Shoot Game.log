@@ -1,0 +1,39 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Shoot Game.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Shoot Game.cpp
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(149,58): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(149,40): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(148,61): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(148,45): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(306,70): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(306,40): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(305,61): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(305,45): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(332,59): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(332,28): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(331,51): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(331,34): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(889,33): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(888,33): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(887,33): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(886,33): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(913,34): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(912,34): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(911,34): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(910,34): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(917,66): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(917,54): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(959,83): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(959,38): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(958,90): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(958,65): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(974,73): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(1134,69): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(1183,105): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(1183,54): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(1198,73): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(1262,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(1395,36): warning C4101: 'yDirection': unreferenced local variable
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(1395,24): warning C4101: 'xDirection': unreferenced local variable
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(1407,36): warning C4101: 'yDirection': unreferenced local variable
+C:\Users\My PC\source\repos\Shoot Game\Shoot Game\Shoot Game.cpp(1407,24): warning C4101: 'xDirection': unreferenced local variable
+  Shoot Game.vcxproj -> C:\Users\My PC\source\repos\Shoot Game\x64\Debug\Neodyum.exe
